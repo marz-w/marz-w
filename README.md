@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martha Wambui</h1>
+<h1 align="center">Hi, I'm Martha Wambui</h1>
 <h3 align="center">Cybersecurity Enthusiast | Software Developer | Ethical Hacking & Web App Security</h3>
 
 <p align="center">
