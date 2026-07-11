@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Diploma-Cybersecurity-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Attachment-iLabAfrica%20@%20Strathmore-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intern-iLabAfrica%20@%20Strathmore-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Women%20in%20Tech-Kenya%20Chapter-purple?style=for-the-badge" />
 </p>
 
