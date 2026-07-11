@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Diploma-Cybersecurity-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Intern-iLabAfrica%20@%20Strathmore-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intern-iLabAfrica%20@%20-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Women%20in%20Tech-Kenya%20Chapter-purple?style=for-the-badge" />
 </p>
 
@@ -61,7 +61,7 @@ Each of these is its own repo — a full write-up with screenshots, payloads use
 | Project | Vulnerability Class | Status |
 |---|---|---|
 | [Governance, Compliance & Legislation Checkpoint](https://github.com/marz-w/sql-injection-xss-portswigger-labs) | SQL Injection (UNION, Oracle) + DOM-Based XSS | ✅ Complete |
-| Networking Lab Checkpoint | Network reconnaissance & protocol analysis | 🔜 Coming soon |
+| [Networking Lab Checkpoint](https://github.com/marz-w/network-recon-http-basic-auth-lab.git) | Network reconnaissance & protocol analysis | ✅ Complete |
 | Active Defense Checkpoint | Defensive security techniques | 🔜 Coming soon |
 | Attacks, Threats & Vulnerabilities Checkpoint | Common attack vectors & threat modeling | 🔜 Coming soon |
 | Architecture & Design Checkpoint | Secure system design | 🔜 Coming soon |
