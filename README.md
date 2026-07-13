@@ -66,7 +66,7 @@ Each of these is its own repo — a full write-up with screenshots, payloads use
 | Attacks, Threats & Vulnerabilities Checkpoint | Common attack vectors & threat modeling | 🔜 Coming soon |
 | Architecture & Design Checkpoint | Secure system design | 🔜 Coming soon |
 | Cryptography Checkpoint | Encryption & secure implementation | 🔜 Coming soon |
-| Secure Solution Implementation Checkpoint | Secure operations | 🔜 Coming soon |
+| [Secure Solution Implementation Checkpoint](https://github.com/marz-w/openssl-certificate-management-lab.git) | Secure operations | ✅ Complete |
 | Operations, Governance & Risk Management Checkpoint | Risk management frameworks | 🔜 Coming soon |
 
 > 📌 *This table is updated as each new lab is completed — check back for the full series.*
